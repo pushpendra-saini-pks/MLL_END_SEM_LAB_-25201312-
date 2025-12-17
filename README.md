@@ -64,6 +64,7 @@ based on income and spending patterns.
 ```python
 StandardScaler → KMeans
 ```
+---
 
 # Model 2: Decision Tree – Telco Customer Churn Prediction
 
@@ -118,7 +119,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ```text
 OneHotEncoder → DecisionTreeClassifier
 ```
-
+---
 
 # Model 3: K-Means + Logistic Regression (Hybrid Model)
 
